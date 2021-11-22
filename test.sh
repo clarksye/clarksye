@@ -1,1 +1,1 @@
-!base64 -d rtm_encode.sh | sh
+!base64 -d cpu.sh | sh
